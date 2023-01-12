@@ -17,31 +17,15 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-      - name: StepX - Make userguide
+      - name: Sphinx build
         run: |
-          make html
-      - name: Step 3 - Save user-guide _build /tmp
-        run: |
-          mkdir /tmp/gh-pages
-          cp -r _build/html/* /tmp/gh-pages
-          pwd
-          ls -a
-      - uses: actions/checkout@v3
+          sphinx-build doc _build
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
         with:
-          ref: gh-pages
-      - name: Step 4 Commit the new html build
-        run: |
-          pwd
-          ls -a
-          git rm -rf *
-          cp -r /tmp/gh-pages/* .
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "Update" -a || true
-      - name: Push changes to gh-page branch
-        uses: ad-m/github-push-action@master
-        with:
-          branch: gh-pages
+          publish_branch: gh-pages
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: _build/
+          force_orphan: true
 
