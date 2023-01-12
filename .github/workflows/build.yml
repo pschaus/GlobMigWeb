@@ -1,22 +1,14 @@
-name: build
-
-on:
-  push:
-    branches:
-      - main
+name: Docs
+on: [push, pull_request, workflow_dispatch]
 jobs:
-  makedoc:
+  docs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Step1 - Set up Python 3.8
-        uses: actions/setup-python@v3
-        with:
-          python-version: 3.8
-      - name: Step2 - Install python dependencies
+      - uses: actions/setup-python@v3
+      - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install sphinx sphinx_rtd_theme
       - name: Sphinx build
         run: |
           sphinx-build source _build
@@ -28,4 +20,3 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: _build/
           force_orphan: true
-
