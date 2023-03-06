@@ -1,2 +1,1 @@
-docutils<0.18
-Sphinx == 5.2.3
+Sphinx == 6.1.3
