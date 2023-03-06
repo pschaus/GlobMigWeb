@@ -6,7 +6,7 @@ Events
    <br />
 
 
-* 26 December 2026 : Meeting
+* 26 December 2026 : Big Meeting
 
 .. image:: _static/example_meeting.png
   :height: 200
