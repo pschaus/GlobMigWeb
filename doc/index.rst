@@ -39,11 +39,11 @@ It gathers professors from UCLouvain and Liser within a highly interdisciplinary
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    project.rst
    team.rst
-   events.rst
+   publications.rst
    
 
 

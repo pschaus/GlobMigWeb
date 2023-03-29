@@ -1,7 +1,7 @@
 .. _team-reference:
 
-Our Team
-++++++++++
+**Our Team**
+++++++++++++++
 
 `EDEM <https://uclouvain.be/fr/instituts-recherche/juri/cedie/edem.html>`_ is involved in the GLOBMIG Project. The researchers of EDEM working on this project are Francesco Gatta, Eleonora Frasca, Jean-Yves Carlier and Sylvie Sarolea. 
 We will interact with the promotor Frédéric Docquier (coordinator), ESPO/IRES/IMMAQ, Chercheur Qualifié at FSR-FNRS and Professor of Economics at UCLouvain, 

@@ -1,5 +1,5 @@
-Project
-+++++++++
+**Project**
++++++++++++++
 
 The recent refugee crisis placed migration policy in the forefront of the global policy debate. 
 World economy trends suggest that there may be further episodes of large-scale migration in the future. 
