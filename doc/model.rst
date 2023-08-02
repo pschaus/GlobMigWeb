@@ -1,5 +1,5 @@
-**Publications**
-++++++++++++++++++
+**Migration accounting model**
++++++++++++++++++++++++++++++++
 
 
 .. |br| raw:: html
@@ -9,7 +9,6 @@
 
 |br|
 
-.. _root drivers
 
 Root Drivers of Internal Migration
 ------------------------------------
@@ -307,3 +306,4 @@ Special section on cross-border mobility during COVID-19
  
     *Link to Manuscript*
 
+:doc:`See the Team <ecoteam>`

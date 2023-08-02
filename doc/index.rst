@@ -1,12 +1,25 @@
-**GlobMig**
-++++++++++++
-
-New approaches to understanding & modeling global migration trends
-=====================================================================
+.. image:: _static/logoGlobMig_nofont.png
+  :width: 250
+  :align: left
+  :alt: GlobMig
 
 .. |br| raw:: html
 
-   <br />
+  <br />
+
+|br|
+
+|br|
+
+|br|
+
+
+
+
+New approaches to understanding & modeling global migration trends
+========================================================================
+
+
 
 .. image:: _static/migration.png
   :width: 800
@@ -20,7 +33,10 @@ New approaches to understanding & modeling global migration trends
   :align: right
   :alt: Fédération Wallonie-Bruxelles
 
-The project GlobMig is a 48-month interdiscplinary project supported by an ARC (action de recherche concertée) grant. 
+The recent refugee crisis placed migration policy in the forefront of the global policy debate. 
+World economy trends suggest that there may be further episodes of large-scale migration in the future. 
+With the financial support of the ARC (action de recherche concertée) convention 18/23-091, GLOBMIG is a 48-month interdiscplinary project that aims 
+at developing stronger conceptual tools to better understand and model global migration patterns, to anticipate future migration pressures, and to investigate the global implications of policy reforms.
 It gathers professors from UCLouvain and Liser within a highly interdisciplinary team (see :ref:`team-reference`).
 
 |br|

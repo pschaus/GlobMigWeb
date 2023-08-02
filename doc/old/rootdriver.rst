@@ -1,18 +1,11 @@
-**Publications**
-++++++++++++++++++
-
-
 .. |br| raw:: html
 
    <br />
 
 
-|br|
 
-.. _root drivers
-
-Root Drivers of Internal Migration
-------------------------------------
+**Root Drivers of Internal Migration**
+++++++++++++++++++++++++++++++++++++++++
 
 **Socio-demographic disparities between countries are instrumental in explaining past migration trends (1970-2020).**
 
@@ -26,6 +19,8 @@ Root Drivers of Internal Migration
     Increasing migration is thus a likely phenomenon for the 21st century.
 
     `Link to the article <https://doi.org/10.1007/s10290-020-00402-1>`_
+
+    *Link to MOOC*
 
   .. dropdown:: Docquier, F. (2018). *Long-term trends in international migration: lessons from a macroeconomic model*. **Economics and Business Review** 4(18-1), 3-15.
 
@@ -71,6 +66,8 @@ Root Drivers of Internal Migration
     Emigration significantly reduces cross-country disparities in income per capita, as well as the proportion of extreme poor in the world population.
 
     *Link to Manuscript*
+
+    *Link to MOOC*
 
 |br|
 
@@ -176,134 +173,8 @@ Root Drivers of Internal Migration
     We find that severe soil nutrient constraints push households to send their members away. The underlying mechanism is that soil degradation is harmful to agricultural productivity, and therefore food security, 
     which incentivizes households to seek better opportunities by pushing their members to migrate.
 
-|br|
-
-|br|
-
-Integration for the 21th century
-------------------------------------
-
-**Socio-demographic changes in general, and population and education disparities in particular, will continue to shape future migration pressures.**
-
-  .. dropdown:: Dao, T.H. & F. Docquier & M. Maurel & P. Schaus (2018). *Global migration in the 20th and 21st centuries: the unstoppable force of demography*. **Review of World Economics**, 157, 417-449. 
-    
-    This paper sheds light on the global migration patterns of the past 40 years, and produces migration projections for the 21st century. To do this, we build a simple model of the world economy, 
-    and we parameterize it to match the economic and socio-demographic characteristics of the world in the year 2010. We conduct backcasting and nowcasting exercises, which demonstrate that our model 
-    fits very well the past and ongoing trends in international migration, and that historical trends were mostly governed by demographic changes. Then, we describe a set of migration projections for 
-    the 21st century. In line with the backcasts, our world migration prospects are mainly governed by socio-demographic changes. Using immigration restrictions or development policies to curb these 
-    pressures requires sealing borders or triggering unprecedented economic takeoffs in migrants’ countries of origin. Increasing migration is thus a likely phenomenon for the 21st century.
-    
-    `Link to the article <https://doi.org/10.1007/s10290-020-00402-1>`_  
-
-  .. dropdown:: Docquier, F. (2018). *Long-term trends in international migration: lessons from a macroeconomic model*. **Economics and Business Review** 4(18-1), 3-15. 
-    
-    In this paper I develop a stylized model of the world economy and use it to explain the long-run trends in international migration. The model very well fits the trends of the last 40 years which are mainly 
-    governed by the evolution of population disparities between industrialized and developing countries. Then I provide migration projections for the 21st century and show that future migration is also governed 
-    by socio-demographic changes. I predict a robust increase in immigration pressures from sub-Saharan Africa and MENA countries to European countries.
-    
-    `Link to the article <https://doi.org/10.18559/ebr.2018.1.1>`_  
-
-|br|
-
-**Impoverishing poor people does not lead to more international migration from poor countries. Migration responses to climate change will be internal.**
-
-  .. dropdown:: Burzynski, M. &  C. Deuster & F. Docquier & J. de Melo (2022). *Climate change, Inequality and Human Migration*.  **Journal of the European Economic Association**, 20(3), 1145-1197. 
-    
-    This paper investigates the long-term implications of climate change on global migration and inequality. Accounting for the effects of changing temperatures, sea levels, and the frequency and intensity of 
-    natural disasters, we model the impact of climate change on productivity and utility in a dynamic general equilibrium framework. By endogenizing people’s migration decisions across millions of 5×5 km 
-    spatial cells, our approach sheds light on the magnitude and dyadic, education-specific structure of human migration induced by global warming. We find that climate change strongly intensifies global 
-    inequality and poverty, reinforces urbanization, and boosts migration from low- to high-latitude areas. Median projections suggest that climate change will induce a voluntary and a forced permanent 
-    relocation of 62 million working-age individuals over the course of the 21st century. Overall, under current international migration laws and policies, only a small fraction of people suffering from 
-    the negative effects of climate change manages to move beyond their homelands. We conclude that it is unlikely that climate shocks will induce massive international flows of migrants, except under combined 
-    extremely pessimistic climate scenarios and highly permissive migration policies. In contrast, poverty resulting from climate change is a real threat to all of us.
-    
-    `Link to the article <https://doi.org/10.1093/jeea/jvab054>`_ 
-
-  .. dropdown:: Burzynski, M. & C. Deuster & F. Docquier & J. de Melo (2019). *Climate migration frightens... climate poverty is frightening*. **VoxEU**. 
-    
-    There has been much discourse on how long-term climate change will affect human mobility over the course of the 21st century. This column estimates the long-term welfare and mobility responses to climate change. 
-    Depending on the scenario, climate change will force between 210 and 320 million people to move, mostly within their own countries. Massive international flows of climate refugees are unlikely, 
-    except under generalized and persistent conflicts. The poorest economies will be hardest hit, thus increasing global inequality and extreme poverty.
-    
-    `Link to the article <https://cepr.org/voxeu/columns/climate-migration-frightens-climate-poverty-frightening>`_  
-
-  .. dropdown:: Burzynski, M. & F. Docquier & H. Scheewel (2021). *Geography of climate migration*. **Journal of Demographic Economics**, 87(3), 345-381. 
-    
-    In this paper, we investigate the long-term effects of climate change on the mobility of working-age people. We use a world economy model that covers almost all the countries around the world, and 
-    distinguishes between rural and urban regions as well as between flooded and unflooded areas. The model is calibrated to match international and internal mobility data by education level for the last 30 years, 
-    and is then simulated under climate change variants. We endogenize the size, dyadic, and skill structure of climate migration. When considering moderate climate scenarios, we predict mobility responses in the 
-    range of 70–108 million workers over the course of the twenty-first century. Most of these movements are local or inter-regional. South–South international migration responses are smaller, while the South–North 
-    migration response is of the “brain drain” type and induces a permanent increase in the number of foreigners in OECD countries in the range of 6–9% only. Changes in the sea level mainly translate into forced 
-    local movements. By contrast, inter-regional and international movements are sensitive to temperature-related changes in productivity. Lastly, we show that relaxing international migration restrictions may 
-    exacerbate the poverty effect of climate change at origin if policymakers are unable to select/screen individuals in extreme poverty.
-    
-    `Link to the article <https://doi.org/10.1017/dem.2021.6>`_ 
-
+    `Link to the article <https://sites.uclouvain.be/econ/DP/IRES/2023004.pdf>`_ 
 
 |br|
 
 |br|
-
-Effectiveness of legal framework
----------------------------------
-
-**Future education policies and international mobility frictions will impact income convergence vs. divergence. Without drastic changes, international migration policies and laws will have limited effects on global inequality.**
-
-  .. dropdown:: Burzynski, M. & Ch. Deuster & F. Docquier (2020). *Geography of skills and global inequality*. **Journal of Development Economics**, 142, Article 102333.  
- 
-    This paper analyzes the factors underlying the evolution of the worldwide distribution of skills and their implications for global inequality. We develop and parameterize a two-sector, two-class, 
-    world economy model that endogenizes education and mobility decisions, population growth, and income disparities across and within countries. First, our static experiments reveal that the geography 
-    of skills matters for global inequality. Low access to education and sectoral misallocation of skills substantially influence income in poor countries. Second, we produce unified projections of population 
-    and income for the 21st century. Assuming the continuation of recent education and migration policies, we predict stable disparities in the world distribution of skills, slow-growing urbanization in developing 
-    countries, and a rebound in income inequality. These prospects are sensitive to future education costs and to internal mobility frictions, which suggests that policies targeting access to all levels of 
-    education and sustainable urban development have a long-term impact on demographic growth and global inequality.
- 
-    `Link to the article <https://doi.org/10.1016/j.jdeveco.2019.02.003>`_  
-
-|br|
-
-**Relaxing international migration restrictions slightly may exacerbate the poverty responses to climate change if decision-makers are unable to screen individuals in extreme poverty. Strengthening restrictions has limited effect on poverty.**
-
-  .. dropdown:: Burzynski, M. &  C. Deuster & F. Docquier & J. de Melo (2022). *Climate change, Inequality and Human Migration*.  **Journal of the European Economic Association**, 20(3), 1145-1197. 
- 
-    This paper investigates the long-term implications of climate change on global migration and inequality. Accounting for the effects of changing temperatures, sea levels, and the frequency and intensity of 
-    natural disasters, we model the impact of climate change on productivity and utility in a dynamic general equilibrium framework. 
-    By endogenizing people’s migration decisions across millions of 5×5 km spatial cells, our approach sheds light on the magnitude and dyadic, education-specific structure of human migration induced by global 
-    warming. We find that climate change strongly intensifies global inequality and poverty, reinforces urbanization, and boosts migration from low- to high-latitude areas. 
-    Median projections suggest that climate change will induce a voluntary and a forced permanent relocation of 62 million working-age individuals over the course of the 21st century. 
-    Overall, under current international migration laws and policies, only a small fraction of people suffering from the negative effects of climate change manages to move beyond their homelands. 
-    We conclude that it is unlikely that climate shocks will induce massive international flows of migrants, except under combined extremely pessimistic climate scenarios and highly permissive migration policies. 
-    In contrast, poverty resulting from climate change is a real threat to all of us.
- 
-    `Link to the article <https://doi.org/10.1093/jeea/jvab054>`_ 
-
-
-
-|br|
-
-|br|
-
-Special section on cross-border mobility during COVID-19
---------------------------------------------------------------
-
-**Restrictions on mobility and economic activity mattered more than fears, but were poorly effective.**
-
-  .. dropdown:: Docquier, F. & N. Golenvaux & S. Nijssen & P. Schaus & F. Stips (2022). *Cross-border mobility responses to COVID-19 in Europe: Evidence from Facebook data*. **Globalization and Health**, 18, n. 41.  
- 
-    Assessing the impact of government responses to Covid-19 is crucial to contain the pandemic and improve preparedness for future crises. We investigate here the impact of non-pharmaceutical interventions (NPIs) 
-    and infection threats on the daily evolution of cross-border movements of people during the Covid-19 pandemic. We use a unique database on Facebook users’ mobility, and rely on regression and machine learning 
-    models to identify the role of infection threats and containment policies. Permutation techniques allow us to compare the impact and predictive power of these two categories of variables.
- 
-    `Link to the article <https://doi.org/10.1186/s12992-022-00832-6>`_  
-
-  .. dropdown:: Docquier, F. & N. Golenvaux & P. Schaus (2022). *Are Travel Restrictions the Panacea to Prevent the Spread of a Virus? Lessons from a Multi-Country SIR Model*. 
- 
-    The SARS-CoV-2 outbreak has given rise to new packages of interventions. Among them, international travel restrictions have been one of the fastest and most visible responses to limit the spread of the virus and its variants. 
-    While inducing large economic losses, the epidemiological consequences of such travel restrictions are highly uncertain. They may be poorly effective when a new transmissible virus already circulates across borders. 
-    Assessing the effectiveness of travel restrictions is difficult given the paucity of data on daily cross-border mobility and on existing virus circulation. 
-    The question was topical and timely when the omicron variant  -- classified as a variant of concern by WHO --  was detected and perceived as more contagious. 
-    In this study, we develop a multi-country compartmental model of the SIR type. We use it to simulate the spread of a new virus across European countries, and to assess the effectiveness of unilateral and 
-    multilateral travel restrictions.
- 
-    *Link to Manuscript*
-
