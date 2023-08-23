@@ -9,9 +9,10 @@
 
 
 
-Law Team
-=========
+**Law Team**
+=============
 
+|br|
 
 .. image:: _static/members/carlier_c.jpg
     :width: 200

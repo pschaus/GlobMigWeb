@@ -9,6 +9,11 @@
 
 |br|
 
+Using machine learning to study and forecast migration
+--------------------------------------------------------------
+
+|br|
+
 
   .. dropdown:: Golenvaux, N., Alvarez, P. G., Kiossou, H. S., & Schaus, P. (2020). *An LSTM approach to Forecast Migration using Google Trends*. arXiv preprint arXiv:2005.09902.
     
@@ -88,4 +93,8 @@ Special section on cross-border mobility during COVID-19
  
     *Link to Manuscript*
 
-:doc:`See the Team <computerteam>`
+|br|
+
+|br|
+
+:doc:`See the Computer Science Team <computerteam>`

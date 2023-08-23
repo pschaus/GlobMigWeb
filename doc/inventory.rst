@@ -103,4 +103,8 @@ Inventory of policies and laws
 
 |br|
 
-:doc:`See the Team <lawteam>`
+|br|
+
+
+
+:doc:`See the Law Team <lawteam>`

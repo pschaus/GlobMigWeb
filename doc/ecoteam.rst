@@ -10,8 +10,10 @@
 
 
 
-Economic Team
-===============
+**Economic Team**
+==================
+
+|br|
 
 .. image:: _static/members/docquier.jpg
     :width: 200

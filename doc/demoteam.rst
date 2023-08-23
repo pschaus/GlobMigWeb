@@ -8,8 +8,10 @@
 |br|
 
 
-Demographic Team
-=================
+**Demographic Team**
+=====================
+
+|br|
 
 
 .. image:: _static/members/bocquier.jpg

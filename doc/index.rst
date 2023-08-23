@@ -49,7 +49,7 @@ It gathers professors from UCLouvain and Liser within a highly interdisciplinary
 |  :target: https://uclouvain.be/fr/index.html|  :target: https://www.liser.lu/      |  :target: https://uclouvain.be/fr/chercher/louvain4migration |
 |                                             |                                      |                                                              |
 +---------------------------------------------+--------------------------------------+--------------------------------------------------------------+
-|        **Funding Institution**              |       **Partner Intitustion**        |                       **Research Consortium**                |
+|        **Funding Institution**              |       **Partner Institution**        |                       **Research Consortium**                |
 +---------------------------------------------+--------------------------------------+--------------------------------------------------------------+
 
 
@@ -58,8 +58,13 @@ It gathers professors from UCLouvain and Liser within a highly interdisciplinary
    :maxdepth: 2
 
    project.rst
+   model.rst
+   innovative.rst
+   inventory.rst
+   demo.rst
+   computer.rst
    team.rst
-   publications.rst
+   
    
 
 

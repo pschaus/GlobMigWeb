@@ -8,8 +8,10 @@
 |br|
 
 
-Computer Science Team
-======================
+**Computer Science Team**
+==========================
+
+|br|
 
 .. image:: _static/members/schaus.jpg
     :width: 200
